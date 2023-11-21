@@ -8,7 +8,7 @@ Task - Data Modeling, Data Engineering and Data Analysis
 3. Query the database
 
 #### Data Modeling 
-- Sketch the Entity Relationship Diagram from the tables - Using the QuickDBD tool, designed the table schema - 
+- Sketch the Entity Relationship Diagram from the tables - Using the QuickDBD tool, designed the table schema - ERD_Employee.png
 [(https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/ERD_Employee.png)](https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/ERD_Employee.png)
 
 
@@ -20,6 +20,7 @@ Task - Data Modeling, Data Engineering and Data Analysis
 
 #### Data Analysis 
 File - Queries_DataAnalysis_Employee.sql
+[(https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/Queries_DataAnalysis_Employee.sql)](https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/Queries_DataAnalysis_Employee.sql)
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
