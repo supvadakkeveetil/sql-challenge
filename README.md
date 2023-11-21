@@ -14,6 +14,8 @@ Task - Data Modeling, Data Engineering and Data Analysis
 
 #### Data Engineering
 - Create table schema for the 6 csv files (Specify Datatypes, Primary Keys, Foreign Keys and other constraints) - Table_Schemata_Employee.sql
+[(https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/Table_Schemata_Employee.sql)](https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/Table_Schemata_Employee.sql)
+
 - Import the csv files into the SQL tables.
 
 #### Data Analysis 
