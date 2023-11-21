@@ -8,8 +8,9 @@ Task - Data Modeling, Data Engineering and Data Analysis
 3. Query the database
 
 #### Data Modeling 
-- Sketch the Entity Relationship Diagram from the tables - Using the QuickDBD tool, designed the table schema - Table_Schemata_Employee.png
-
+- Sketch the Entity Relationship Diagram from the tables - Using the QuickDBD tool, designed the table schema - 
+- [
+](https://github.com/supvadakkeveetil/sql-challenge/blob/main/EmployeeSQL/ERD_Employee.png)
 #### Data Engineering
 - Create table schema for the 6 csv files (Specify Datatypes, Primary Keys, Foreign Keys and other constraints) - Table_Schemata_Employee.sql
 - Import the csv files into the SQL tables.
